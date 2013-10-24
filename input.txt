@@ -1,0 +1,65 @@
+     …                                                                      
+
+- DT   15-JUN-2010, entry version 77.                                         
+
++ DT   10-AUG-2010, entry version 78.                                         
+
+     …                                                                      
+
++ RN   [10]                                                                   
++ RP   INTERACTION WITH TRIM11, UBIQUITINATION, AND DEVELOPMENTAL STAGE.      
++ RX   PubMed=18628401; DOI=10.1101/gad.471708;                               
++ RA   Tuoc T.C., Stoykova A.;                                                
++ RT   "Trim11 modulates the function of neurogenic transcription factor Pax6 
++ RT   through ubiquitin-proteosome system.";                                 
++ RL   Genes Dev. 22:1972-1986(2008).                                         
+
+     …                                                                      
+
+- CC   -!- SUBUNIT: Interacts with MAF and MAFB.                              
+
++ CC   -!- SUBUNIT: Interacts with MAF and MAFB. Interacts with TRIM11; this  
++ CC       interaction leads to ubiquitination and proteasomal degradation,   
++ CC       as well as inhibition of transactivation, possibly in part by      
++ CC       preventing PAX6 binding to consensus DNA sequences.                
+
+     …                                                                      
+
+- CC       and pancreas. At day 9 of mouse embryonic development, expressed   
+- CC       in the telencephalon, diencephalon, neural tube, optic vesicle and 
+- CC       pancreas. Throughout development, expression continues in the      
+- CC       dorsal and ventral pancreas. In newborn animals, becomes           
+- CC       restricted to endocrine cells of the islets of Langerhans.         
+
++ CC       and pancreas. At 9 dpc, expressed in the telencephalon,            
++ CC       diencephalon, neural tube, optic vesicle and pancreas. Throughout  
++ CC       development, expression continues in the dorsal and ventral        
++ CC       pancreas. Expressed during cortical neurogenesis from 11 to 18     
++ CC       dpc. High levels in the early radial glial progenitors from 11 to  
++ CC       14 dpc and gradually decrease thereafter (at protein level).       
++ CC       During corticogenesis, the protein level declines faster than that 
++ CC       of the mRNA, due to proteasomal degradation. In newborn animals,   
++ CC       becomes restricted to endocrine cells of the islets of Langerhans. 
++ CC   -!- PTM: Ubiquitinated by TRIM11, leading to ubiquitination and        
++ CC       proteasomal degradation.                                           
+
+     …                                                                      
+
++ DR   ProteinModelPortal; P63015; -.                                         
+
+     …                                                                      
+
++ DR   GO; GO:0010843; F:promoter binding; IDA:MGI.                           
+
+     …                                                                      
+
+- DR   GO; GO:0043565; F:sequence-specific DNA binding; IEA:InterPro.         
+
+     …                                                                      
+
+- KW   Nucleus; Paired box; Transcription; Transcription regulation.          
+
++ KW   Nucleus; Paired box; Transcription; Transcription regulation;          
++ KW   Ubl conjugation.                                                       
+
+     …                                                                      

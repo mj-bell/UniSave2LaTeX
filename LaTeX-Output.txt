@@ -1,0 +1,53 @@
+\begin{figure}[!htbp]
+\footnotesize\centering $
+\texttt{%
+\begin{tabular}{l m{13.5cm}}
+& {\color{fntDots} ~~~~~ $^{...}$ } \\[-1ex]
+\rowcolor{bgRed} 1 & {\color{fntRed}- DT~~~15-JUN-2010, entry version 77.} \\
+\rowcolor{bgGreen} 2 & {\color{fntGreen}+ DT~~~10-AUG-2010, entry version 78.} \\
+& {\color{fntDots} ~~~~~ $^{...}$ } \\[-1ex]
+\rowcolor{bgGreen} 3 & {\color{fntGreen}+ RN~~~[10]} \\
+\rowcolor{bgGreen} 4 & {\color{fntGreen}+ RP~~~INTERACTION WITH TRIM11, UBIQUITINATION, AND DEVELOPMENTAL STAGE.} \\
+\rowcolor{bgGreen} 5 & {\color{fntGreen}+ RX~~~PubMed=18628401; DOI=10.1101/gad.471708;} \\
+\rowcolor{bgGreen} 6 & {\color{fntGreen}+ RA~~~Tuoc T.C., Stoykova A.;} \\
+\rowcolor{bgGreen} 7 & {\color{fntGreen}+ RT~~~"Trim11 modulates the function of neurogenic transcription factor Pax6} \\
+\rowcolor{bgGreen} 8 & {\color{fntGreen}+ RT~~~through ubiquitin-proteosome system.";} \\
+\rowcolor{bgGreen} 9 & {\color{fntGreen}+ RL~~~Genes Dev. 22:1972-1986(2008).} \\
+& {\color{fntDots} ~~~~~ $^{...}$ } \\[-1ex]
+\rowcolor{bgRed} 10 & {\color{fntRed}- CC~~~-!- SUBUNIT: Interacts with MAF and MAFB.} \\
+\rowcolor{bgGreen} 11 & {\color{fntGreen}+ CC~~~-!- SUBUNIT: Interacts with MAF and MAFB. Interacts with TRIM11; this} \\
+\rowcolor{bgGreen} 12 & {\color{fntGreen}+ CC~~~~~~~interaction leads to ubiquitination and proteasomal degradation,} \\
+\rowcolor{bgGreen} 13 & {\color{fntGreen}+ CC~~~~~~~as well as inhibition of transactivation, possibly in part by} \\
+\rowcolor{bgGreen} 14 & {\color{fntGreen}+ CC~~~~~~~preventing PAX6 binding to consensus DNA sequences.} \\
+& {\color{fntDots} ~~~~~ $^{...}$ } \\[-1ex]
+\rowcolor{bgRed} 15 & {\color{fntRed}- CC~~~~~~~and pancreas. At day 9 of mouse embryonic development, expressed} \\
+\rowcolor{bgRed} 16 & {\color{fntRed}- CC~~~~~~~in the telencephalon, diencephalon, neural tube, optic vesicle and} \\
+\rowcolor{bgRed} 17 & {\color{fntRed}- CC~~~~~~~pancreas. Throughout development, expression continues in the} \\
+\rowcolor{bgRed} 18 & {\color{fntRed}- CC~~~~~~~dorsal and ventral pancreas. In newborn animals, becomes} \\
+\rowcolor{bgRed} 19 & {\color{fntRed}- CC~~~~~~~restricted to endocrine cells of the islets of Langerhans.} \\
+\rowcolor{bgGreen} 20 & {\color{fntGreen}+ CC~~~~~~~and pancreas. At 9 dpc, expressed in the telencephalon,} \\
+\rowcolor{bgGreen} 21 & {\color{fntGreen}+ CC~~~~~~~diencephalon, neural tube, optic vesicle and pancreas. Throughout} \\
+\rowcolor{bgGreen} 22 & {\color{fntGreen}+ CC~~~~~~~development, expression continues in the dorsal and ventral} \\
+\rowcolor{bgGreen} 23 & {\color{fntGreen}+ CC~~~~~~~pancreas. Expressed during cortical neurogenesis from 11 to 18} \\
+\rowcolor{bgGreen} 24 & {\color{fntGreen}+ CC~~~~~~~dpc. High levels in the early radial glial progenitors from 11 to} \\
+\rowcolor{bgGreen} 25 & {\color{fntGreen}+ CC~~~~~~~14 dpc and gradually decrease thereafter (at protein level).} \\
+\rowcolor{bgGreen} 26 & {\color{fntGreen}+ CC~~~~~~~During corticogenesis, the protein level declines faster than that} \\
+\rowcolor{bgGreen} 27 & {\color{fntGreen}+ CC~~~~~~~of the mRNA, due to proteasomal degradation. In newborn animals,} \\
+\rowcolor{bgGreen} 28 & {\color{fntGreen}+ CC~~~~~~~becomes restricted to endocrine cells of the islets of Langerhans.} \\
+\rowcolor{bgGreen} 29 & {\color{fntGreen}+ CC~~~-!- PTM: Ubiquitinated by TRIM11, leading to ubiquitination and} \\
+\rowcolor{bgGreen} 30 & {\color{fntGreen}+ CC~~~~~~~proteasomal degradation.} \\
+& {\color{fntDots} ~~~~~ $^{...}$ } \\[-1ex]
+\rowcolor{bgGreen} 31 & {\color{fntGreen}+ DR~~~ProteinModelPortal; P63015; -.} \\
+& {\color{fntDots} ~~~~~ $^{...}$ } \\[-1ex]
+\rowcolor{bgGreen} 32 & {\color{fntGreen}+ DR~~~GO; GO:0010843; F:promoter binding; IDA:MGI.} \\
+& {\color{fntDots} ~~~~~ $^{...}$ } \\[-1ex]
+\rowcolor{bgRed} 33 & {\color{fntRed}- DR~~~GO; GO:0043565; F:sequence-specific DNA binding; IEA:InterPro.} \\
+& {\color{fntDots} ~~~~~ $^{...}$ } \\[-1ex]
+\rowcolor{bgRed} 34 & {\color{fntRed}- KW~~~Nucleus; Paired box; Transcription; Transcription regulation.} \\
+\rowcolor{bgGreen} 35 & {\color{fntGreen}+ KW~~~Nucleus; Paired box; Transcription; Transcription regulation;} \\
+\rowcolor{bgGreen} 36 & {\color{fntGreen}+ KW~~~Ubl conjugation.} \\
+& {\color{fntDots} ~~~~~ $^{...}$ } \\[-1ex]
+\end{tabular} } $
+\caption[TODO: TOC Caption]{TODO: Figure Caption}
+\label{fig:TODOunisave}
+\end{figure}
