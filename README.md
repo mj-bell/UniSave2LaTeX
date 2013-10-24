@@ -25,7 +25,8 @@ And definitions of the colours for the background and font:
 \definecolor{fntGreen}{HTML}{008000}
 \definecolor{bgRed}{HTML}{FFFFCC}
 \definecolor{fntRed}{HTML}{FF0000}
-\definecolor{fntDots}{HTML}{C0C0C0}```
+\definecolor{fntDots}{HTML}{C0C0C0}
+```
 
 To run the code the UniSave text needs to be placed into a text file, and
 then ran from Java like:
